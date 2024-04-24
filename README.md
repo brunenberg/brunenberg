@@ -1,24 +1,9 @@
-```
- ___________________________
-< Why would you write bugs? >
- ---------------------------
-        \   ^__^
-         \  (oo)\_________
-            (__)\         )\/\
-                | |----w  |
-                | |     | |
-```
-<!--
-**Delluci/Delluci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Wouter 👋
+Welcome to my GitHub profile! I'm passionate about technology, coding, and design. Check out my projects and feel free to reach out if you have any questions or collaboration ideas.
 
-Here are some ideas to get you started:
+## Check Out My Website 👨‍💻
+For a deeper dive into my work and skills, visit my [GitHub Pages website](https://brunenberg.github.io/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect 🤝
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/wouterbrunenberg), send me an [E-mail](mailto:wouter.brunenberg@hotmail.com), or explore my projects on [GitHub](https://www.github.com/brunenberg).
