@@ -9,7 +9,7 @@ C:\Users\Wouter> whoami
 DESKTOP-ABC123\Wouter
 
 C:\Users\Wouter> systeminfo | findstr "Student\|Developer"
-HBO Informatica Student (Jaar 3)
+HBO Informatica Student (Jaar 4)
 Status: Projecten realiseren & skills uitbreiden
 
 C:\Users\Wouter> dir skills
