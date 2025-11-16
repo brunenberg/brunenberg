@@ -25,7 +25,7 @@ xx/xx/2025  12:00 AM                0  README.txt
 
 C:\Users\Wouter> type README.txt
 Ideeën vertalen naar digitale uitwerkingen.
-Focus: Clean code, gebruiksvriendelijk design, slimme oplossingen.
+Focus: clean code, gebruiksvriendelijk design, slimme oplossingen.
 
 C:\Users\Wouter> netstat -contact
 LinkedIn: https://www.linkedin.com/in/wouterbrunenberg
